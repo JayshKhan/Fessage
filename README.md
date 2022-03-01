@@ -11,3 +11,6 @@ Technology Used are:
 2. Swing UI
 3. Mysql
 4. Xampp
+
+
+Some Error Could Arise from the Hardcoded Locations in the code.
